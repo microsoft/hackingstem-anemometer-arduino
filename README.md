@@ -8,10 +8,6 @@ Arduino code for Microsoft Hacking STEM Measuring Windspeed Lesson Plan adapted 
 1. Verify data interactions in Excel
 1. Ready, Set, Science!
 
-# Contributing
-We gladly accept pull requests for enhancements and bug fixes! You may also submit feature requests and bugs!
-https://github.com/microsoft/hackingstem-anemometer-arduino
-
 # Make it your own!
 This project is licensed under the MIT open source license, see License.txt. The MIT license allows you to take this project and make awesome things with it! MIT is a very permissive license, but does require you include license and copyright from License.txt in any derivative work for sake of attribution.
 
