@@ -1,7 +1,7 @@
 //===----------------__ Hacking STEM – [Filename] – Arduino __------------===//
 // For use with the Analyzing Wind Speed lesson plan
-// available from Microsoft Education Workshop at 
-// https://www.microsoft.com/en-us/education/education-workshop/anemometer.aspx
+// available from Microsoft Education Workshop at
+// https://education.microsoft.com/hackingStem/lesson/683f344b
 // http://aka.ms/hackingSTEM
 //
 // Overview:
